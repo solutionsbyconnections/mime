@@ -1,7 +1,7 @@
 # mime
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/yihui/mime/workflows/R-CMD-check/badge.svg)](https://github.com/yihui/mime/actions)
+[![R-CMD-check](https://github.com/solutionsbyconnections/mime/workflows/R-CMD-check/badge.svg)](https://github.com/solutionsbyconnections/mime/actions)
 [![CRAN release](https://www.r-pkg.org/badges/version/mime)](https://cran.r-project.org/package=mime)
 <!-- badges: end -->
 
